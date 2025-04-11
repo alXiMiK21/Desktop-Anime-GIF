@@ -8,7 +8,7 @@
 
 The application creates an unlimited number of animated GIFs on your desktop that you can move. Simply install the [latest version](https://github.com/alXiMiK21/Desktop-Anime-GIF/releases/tag/v1.0) and run **DesktopAnimeGIF.exe**
 
-Screenshot:
+Screenshot:  
 ![Screenshot app](Screenshot_app.png)
 
 ### Application capabilities
@@ -19,9 +19,9 @@ Screenshot:
 
 ### Interface guide
 
-The first 5 buttons create a corresponding GIF
-`Clear` - removes all the GIFs from the screen
-`Hide` - minimizes the application to tray (can be brought back by clicking on the icon)
+The first 5 buttons create a corresponding GIF  
+`Clear` - removes all the GIFs from the screen  
+`Hide` - minimizes the application to tray (can be brought back by clicking on the icon)  
 `Exit` - closes the application
 
 ### Changing GIFs
@@ -30,17 +30,17 @@ Open the "GIF" folder and replace the files with new ones, keeping the same file
 
 ### Other information
 
-I took most of the code from another [repository](https://github.com/SrMecha/Desktop-Konata), simply modifying it a little.
+I took most of the code from another [repository](https://github.com/SrMecha/Desktop-Konata), simply modifying it a little.  
 MIT license
 
-
+<br><br>
 
 ## 🇷🇺 Русская версия
 ### Описание
 
 Приложение создает неограниченное количество гиф анимации на рабочем столе, которые можно перемещать. Просто скачайте [последнюю версию](https://github.com/alXiMiK21/Desktop-Anime-GIF/releases/tag/v1.0) и запустите **DesktopAnimeGIF.exe**
 
-Скриншот: 
+Скриншот:  
 ![Скриншот приложения](Screenshot_app.png)
 
 ### Что умеет
@@ -51,9 +51,9 @@ MIT license
 
 ### Гайд по интерфейсу
 
-Первые 5 кнопок создают определенную гифку
-`Clear` - удаляет все гифки с экрана
-`Hide` - сворачивает приложение в трей (вернуть можно нажав на значок)
+Первые 5 кнопок создают определенную гифку  
+`Clear` - удаляет все гифки с экрана  
+`Hide` - сворачивает приложение в трей (вернуть можно нажав на значок)  
 `Exit` - закрывает приложение
 
 ### Замена гиф
@@ -62,5 +62,5 @@ MIT license
 
 ### Прочая информация
 
-Основной код взял из другого [репозитория](https://github.com/SrMecha/Desktop-Konata), я лишь немного модифицировал.
+Основной код взял из другого [репозитория](https://github.com/SrMecha/Desktop-Konata), я лишь немного модифицировал.  
 Лицензия MIT
