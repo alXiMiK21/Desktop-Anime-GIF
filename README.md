@@ -1,4 +1,4 @@
-﻿# Desktop-Anime-GIF
+﻿# Desktop Anime GIF
 
 [Русский](#-русская-версия)/[English](#-english-version)
 
