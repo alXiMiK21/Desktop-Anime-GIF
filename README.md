@@ -6,7 +6,7 @@
 
 ### Description
 
-The application creates an unlimited number of animated GIFs on your desktop that you can move. Simply install the [latest version](https://github.com/alXiMiK21/Desktop-Anime-GIF/releases/tag/v1.0) and run **DesktopAnimeGIF.exe**
+The application creates an unlimited number of animated GIFs on your desktop that you can move. Simply install the [latest version](https://github.com/alXiMiK21/Desktop-Anime-GIF/releases/latest) and run **DesktopAnimeGIF.exe**
 
 Screenshot:  
 ![Screenshot app](Screenshot_app.png)
@@ -38,7 +38,7 @@ MIT license
 ## 🇷🇺 Русская версия
 ### Описание
 
-Приложение создает неограниченное количество гиф анимации на рабочем столе, которые можно перемещать. Просто скачайте [последнюю версию](https://github.com/alXiMiK21/Desktop-Anime-GIF/releases/tag/v1.0) и запустите **DesktopAnimeGIF.exe**
+Приложение создает неограниченное количество гиф анимации на рабочем столе, которые можно перемещать. Просто скачайте [последнюю версию](https://github.com/alXiMiK21/Desktop-Anime-GIF/releases/latest) и запустите **DesktopAnimeGIF.exe**
 
 Скриншот:  
 ![Скриншот приложения](Screenshot_app.png)
